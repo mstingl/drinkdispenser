@@ -1,0 +1,3 @@
+django
+RPi.GPIO
+pi-rc522
